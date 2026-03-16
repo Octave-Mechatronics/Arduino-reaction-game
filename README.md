@@ -63,3 +63,4 @@ Erweiterung zu einem Multiplayer-Spiel
 
 Octave Meba
 Mechatronik Bachelor Student
+![Arduino Reaction Game](photo_2026-03-16_16-03-27.jpg)
